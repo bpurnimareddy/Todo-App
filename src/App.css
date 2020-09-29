@@ -1,0 +1,25 @@
+.main-box{
+  
+}
+.todo-main-box{
+  width:40%;
+  background-color: blueviolet;
+  height:300px;
+}
+
+.task-box{
+  height:40px;
+  width:50%
+}
+
+.add-btn{
+  height:40px;
+  width:20%
+}
+
+.todo-box{
+  width:50%;
+  background-color:rgb(145, 12, 34);
+  height:50px;
+  color:white
+}
